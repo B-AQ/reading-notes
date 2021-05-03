@@ -10,7 +10,7 @@ Hello everyone,My name is **Bashar Aqleh**, I am 28 years old, I have a bleacher
 
 | Name | Link |
 | --- | --- |
-| read1 |  [read1](https://replit.com/@BasharAQ1/reading-notes#read1.md) |
-| read2 | [read2](https://replit.com/@BasharAQ1/reading-notes#read2.md) |
+| read1 |  [read1](https://b-aq.github.io/reading-notes/read1) |
+| read2 | [read2](https://b-aq.github.io/reading-notes/read2) |
 
 ---
