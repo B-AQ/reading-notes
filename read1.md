@@ -1,4 +1,6 @@
-  ## Markdown note and GitHub pages ##
+
+
+## Markdown note and GitHub pages ##
   
   - ### Markdown ###
   In conclusion **Markdown** is a lightweight markup language and a way to style the web text also it have an easy to use syntax for styling all forms of writing on the
