@@ -16,6 +16,6 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 | read2 | Git | [Link2](https://b-aq.github.io/reading-notes/read2) |
 | read3 | Wireframming | [Link3](https://b-aq.github.io/reading-notes/read3) |
 | read4 | CSS | [Link4](https://b-aq.github.io/reading-notes/read4) |
-| read5 | --- | [Link5](https://b-aq.github.io/reading-notes/read5) |
+| read5 | HTML | [Link5](https://b-aq.github.io/reading-notes/read5) |
 
 ---
