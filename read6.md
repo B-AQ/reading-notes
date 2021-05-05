@@ -1,6 +1,6 @@
 # JavaScript's Expressions and Operators
 
-| Operators | Expressions |
+| Operators | 
 |---|---|
 | Assignment operators|
 |Comparison operators|
@@ -12,6 +12,9 @@
 |Comma operator|
 |Unary operators|
 |Relational operators|
+
+---
+
 
 | Expressions | Example |
 |---|---|
