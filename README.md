@@ -8,12 +8,12 @@ Hello everyone,My name is **Bashar Aqleh**, I am 28 years old, I have a bleacher
 
 <!-- Table -->
 
-| Name | Link |
-| --- | --- |
-| read1 |  [read1](https://b-aq.github.io/reading-notes/read1) |
-| read2 | [read2](https://b-aq.github.io/reading-notes/read2) |
-| read3 |  [read3](https://b-aq.github.io/reading-notes/read3) |
-| read4 | [read4](https://b-aq.github.io/reading-notes/read4) |
-| read5 | [read5](https://b-aq.github.io/reading-notes/read5) |
+| Name | Description | URL |
+| --- | --- | ----------------------------------------------------- |
+| read1 | Markdown & Github | [Link1](https://b-aq.github.io/reading-notes/read1) |
+| read2 | Git | [Link2](https://b-aq.github.io/reading-notes/read2) |
+| read3 | Wireframming | [Link3](https://b-aq.github.io/reading-notes/read3) |
+| read4 | CSS | [Link4](https://b-aq.github.io/reading-notes/read4) |
+| read5 | --- | [Link5](https://b-aq.github.io/reading-notes/read5) |
 
 ---
