@@ -19,5 +19,7 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 | read5 | HTML | [Link5](https://b-aq.github.io/reading-notes/read5) |
 | read6 | JS Expressions, Operators & Control flow | [Link6](https://b-aq.github.io/reading-notes/read6) |
 | read7 | JS Operators and Loops | [Link7](https://b-aq.github.io/reading-notes/read7) |
+| read8 | Functions | [Link8](https://b-aq.github.io/reading-notes/read8) |
 
 ---
+
