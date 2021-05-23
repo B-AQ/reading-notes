@@ -32,6 +32,7 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 **Web Development Course 201**
 
 Course materials:
+
 - JavaScript & Jquery Interactive Front-End Web Development book
 
 - HTML CSS Design and Build Websites
