@@ -1,14 +1,16 @@
+# reading-notes-102
 
 <!-- Intro -->
 
-## Introduction
+**Introduction**
+
 Hello everyone,My name is **Bashar Aqleh**, I am 28 years old, I have a bleacher degree in Business Administration from the Middle East university and it is my pleasure to be hear and to have this opportunity which hopefully will help me taking a career change and becoming a web developer.
 
 ---
 
 Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 
-<!-- Table -->
+<!-- Table 102 -->
 
 | Name | Description | URL |
 | --- | --- | --- |
@@ -23,3 +25,30 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 
 ---
 
+<!-- Table 201 -->
+
+# reading-notes-201
+
+**Web Development Course 201**
+
+Course materials:
+- JavaScript & Jquery Interactive Front-End Web Development book
+- HTML CSS Design and Build Websites
+
+| Assaigment | Description | Link |
+| - | - |- |
+| read 1 |Introduction & JS Chapter 1: “The ABC of Programming” |[Link](https://b-aq.github.io/reading-notes-201/read1)|
+| read 2 |Basics of HTML, CSS & JS|[Link](https://b-aq.github.io/reading-notes-201/read2)|
+| read 3 |||
+| read 4 |||
+| read 5 |||
+| read 6 |||
+| read 7 |||
+| read 8 |||
+| read 9 |||
+| read 10 |||
+| read 11 |||
+| read 12 |||
+| read 13 |||
+| read 14 |||
+| read 15 |||
