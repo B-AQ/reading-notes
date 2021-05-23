@@ -1,6 +1,7 @@
-## JavaScript & Jquery Interactive Front-End Web Development 
 
-**Introduction** 
+# JavaScript & Jquery Interactive Front-End Web Development
+
+**Introduction**
  This book explains how JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier.
 
  This book is divided into two sections:

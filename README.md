@@ -14,31 +14,32 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 
 | Name | Description | URL |
 | --- | --- | --- |
-| read1 | Markdown & Github | [Link1](https://b-aq.github.io/reading-notes/read1) |
-| read2 | Git | [Link2](https://b-aq.github.io/reading-notes/read2) |
-| read3 | Wireframming | [Link3](https://b-aq.github.io/reading-notes/read3) |
-| read4 | CSS | [Link4](https://b-aq.github.io/reading-notes/read4) |
-| read5 | HTML | [Link5](https://b-aq.github.io/reading-notes/read5) |
-| read6 | JS Expressions, Operators & Control flow | [Link6](https://b-aq.github.io/reading-notes/read6) |
-| read7 | JS Operators and Loops | [Link7](https://b-aq.github.io/reading-notes/read7) |
-| read8 | Functions | [Link8](https://b-aq.github.io/reading-notes/read8) |
+| read1 | Markdown & Github | [Link1](https://b-aq.github.io/reading-notes/102/read1) |
+| read2 | Git | [Link2](https://b-aq.github.io/reading-notes/102/read2) |
+| read3 | Wireframming | [Link3](https://b-aq.github.io/reading-notes/102/read3) |
+| read4 | CSS | [Link4](https://b-aq.github.io/reading-notes/102/read4) |
+| read5 | HTML | [Link5](https://b-aq.github.io/reading-notes/102/read5) |
+| read6 | JS Expressions, Operators & Control flow | [Link6](https://b-aq.github.io/reading-notes/102/read6) |
+| read7 | JS Operators and Loops | [Link7](https://b-aq.github.io/reading-notes/102/read7) |
+| read8 | Functions | [Link8](https://b-aq.github.io/reading-notes/102/read8) |
 
 ---
 
 <!-- Table 201 -->
 
-# reading-notes-201
+## reading-notes-201
 
 **Web Development Course 201**
 
 Course materials:
 - JavaScript & Jquery Interactive Front-End Web Development book
+
 - HTML CSS Design and Build Websites
 
 | Assaigment | Description | Link |
 | - | - |- |
-| read 1 |Introduction & JS Chapter 1: “The ABC of Programming” |[Link](https://b-aq.github.io/reading-notes-201/read1)|
-| read 2 |Basics of HTML, CSS & JS|[Link](https://b-aq.github.io/reading-notes-201/read2)|
+| read 1 |Introduction & JS Chapter 1: “The ABC of Programming” |[Link](201/read1.md)|
+| read 2 |Basics of HTML, CSS & JS|[Link](201/read2.md)|
 | read 3 |||
 | read 4 |||
 | read 5 |||
