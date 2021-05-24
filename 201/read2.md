@@ -4,7 +4,9 @@
 *Chapter 2: **Text** (pp.40-61)*
 
 There is two types of Markup (Tags)
-1. **Structural markup**: the elements that you can use to describe both *headings* and *paragraphs*.
+1. **Structural markup**: 
+the elements that you can use to describe both *headings* and *paragraphs*.
+
 1. **Semantic markup**: provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation etc.
 
 <!-- Structural markup Table -->
@@ -39,66 +41,73 @@ There is two types of Markup (Tags)
 
 *Chapter 10: **Introducing CSS** (pp.226-245)*
 
-## CSS:
+## CSS
+
      Allows you to create rules that specify how the content of an element should appear.
 
-### Block elements & Inline elements:
+### Block elements & Inline elements
+
 - Block elements: they start on a new line. **Examples** ( `<h1>-<h6>, <p> and <div>`).
 - Inline elements: flow within the text and do not start on a new line. **Examples** (`<b>, <i>, <img>, <em> and <span>`).
 
 **Three ways to add CSS**
+
 1. External CSS: we create a folder and link it to the HTML,by adding link element inside the head.
 1. Internal CSS: it is inside the html file,by adding the style tag inside the head and we add the curly braces.Internal
 1. Inline CSS: by adding the attribute style inside the opening tag.
 
 ---
 
-
 # JavaScript book
 
 *Chapter 2: **Basic JavaScript Instructions** (pp.53-84)*
 
 **Statments**:
-A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
 
 **Comments**:
-You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. 
+You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
 
 Two types of **Comments**
-1. Single-line comment: two forward slash characters //
-1. Multi-line comment: starting with the /* characters and ending with the */ characters
 
-**Variables**: The use of variables to represent numbers or other kinds of data is very similar to the concept of algebra (where le.tters are used to represent numbers). There is one key difference, however. The equals sign does something very different in programming (as you will see on the next two pages). 
+1. Single-line comment: two forward slash characters //
+1. Multi-line comment: starting with the /*characters and ending with the*/ characters
+
+**Variables**: The use of variables to represent numbers or other kinds of data is very similar to the concept of algebra (where le.tters are used to represent numbers). There is one key difference, however. The equals sign does something very different in programming (as you will see on the next two pages).
 
 JavaScript **DATA TYPES**
+
 - *NUMERIC*: handles numbers.
 - *STRING*: anything inside single or double quotes
 - *BOOLEAN*: have one of two values: true or false.
 
-**Arrays**: An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
+**Arrays**: An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
-**Values in Arrays**:as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
+**Values in Arrays**:as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
 
 **Expression**: An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
 
 **operators**: Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
 
-Types of Operators
- - Assignment operators
- - Comparison operators
- - Arithmetic operators
- - Bitwise operators
- - Logical operators
- - String operators
- - Conditional (ternary) operator
- - Comma operator
- - Unary operators
- - Relational operators
+Types of Operators:
+
+- Assignment operators
+- Comparison operators
+- Arithmetic operators
+- Bitwise operators
+- Logical operators
+- String operators
+- Conditional (ternary) operator
+- Comma operator
+- Unary operators
+- Relational operators
 
 *Chapter 4: **Decisions and Loops** only up to the section on switch statements (pp.145-162)*
 
-#### Decisions:
+#### Decisions
+
      Using the results of evaluations, you can decide which path your script should go down.
 
-#### Loops:
-     here are also many occasions where you will want to perform the same set of steps repeatedly. 
+#### Loops
+
+     here are also many occasions where you will want to perform the same set of steps repeatedly.

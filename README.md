@@ -41,7 +41,7 @@ Course materials:
 | - | - |- |
 | read 1 |Introduction & JS Chapter 1: “The ABC of Programming” |[Link](201/read1.md)|
 | read 2 |Basics of HTML, CSS & JS|[Link](201/read2.md)|
-| read 3 |||
+| read 3 |HTML Lists, Control Flow with JS, and the CSS Box Model|[Link](201/read3.md)|
 | read 4 |||
 | read 5 |||
 | read 6 |||
