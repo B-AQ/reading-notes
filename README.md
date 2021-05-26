@@ -43,7 +43,7 @@ Course materials:
 | read 2 |Basics of HTML, CSS & JS|[Link](201/read2.md)|
 | read 3 |HTML Lists, Control Flow with JS, and the CSS Box Model|[Link](201/read3.md)|
 | read 4 |HTML Links, JS Functions, and Intro to CSS Layout|[Link](201/read4.md)|
-| read 5 |||
+| read 5 |HTML Images, Color and Text|[Link](201/read5.md)|
 | read 6 |||
 | read 7 |||
 | read 8 |||
