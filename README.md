@@ -44,7 +44,7 @@ Course materials:
 | read 3 |HTML Lists, Control Flow with JS, and the CSS Box Model|[Link](201/read3.md)|
 | read 4 |HTML Links, JS Functions, and Intro to CSS Layout|[Link](201/read4.md)|
 | read 5 |HTML Images, Color and Text|[Link](201/read5.md)|
-| read 6 |Problem Domain, Objects, and the DOM|[Link](201/read6.md|
+| read 6 |Problem Domain, Objects, and the DOM|[Link](201/read6.md)|
 | read 7 |||
 | read 8 |||
 | read 9 |||
