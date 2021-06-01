@@ -46,7 +46,7 @@ Course materials:
 | read 5 |HTML Images, Color and Text|[Link](201/read5.md)|
 | read 6 |Problem Domain, Objects, and the DOM|[Link](201/read6.md)|
 | read 7 |Object-Oriented Programming, HTML Tables|[Link](201/read7.md)|
-| read 8 |||
+| read 8 |CSS Layout|[Link](201/read8.md)|
 | read 9 |||
 | read 10 |||
 | read 11 |||
