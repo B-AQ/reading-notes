@@ -48,7 +48,7 @@ Course materials:
 | read 7 |Object-Oriented Programming, HTML Tables|[Link](201/read7.md)|
 | read 8 |CSS Layout|[Link](201/read8.md)|
 | read 9 |Forms and JS Events|[Link](201/read9.md)|
-| read 10 |||
+| read 10|Debugging|[Link](201/read10.md)|
 | read 11 |||
 | read 12 |||
 | read 13 |||
