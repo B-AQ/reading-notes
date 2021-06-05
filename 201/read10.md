@@ -1,7 +1,7 @@
 
 # JS book
 
-*Chapter 10, **Error Handling & Debugging**
+Chapter 10, **Error Handling & Debugging**
 
 ## Execution context & Hoisting
 
@@ -69,9 +69,6 @@ Browsers that have a console have a console object, which has several methods th
 
 - The ``console.log()`` method can write data from a script to the console. If you open console-l og. html, you will see that a note is written to the console when the page loads.
 
-
-
-
 #### Summary
 
 - If you understand execution contexts (which have two stages) and stacks, you are more likely to find the error in your code.
@@ -84,4 +81,4 @@ Browsers that have a console have a console object, which has several methods th
 
 - If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements.
 
--Use them to give your users helpful feedback.
+- Use them to give your users helpful feedback.

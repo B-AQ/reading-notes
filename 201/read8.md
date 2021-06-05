@@ -1,6 +1,5 @@
 # HTML book
 
-
 Chapter. 15, **Layout**(repeat of Class 4 reading)
 
 ## Layout
@@ -16,11 +15,13 @@ Chapter. 15, **Layout**(repeat of Class 4 reading)
 |clear|allows you to say that no element (within the same containing element) should touch the left or righthand sides of a box. It can take the following values:*(left, right, both and none)*|
 |Layout Grids|Grids set consistent proportions and spaces between items which helps to create a professional looking design,Many designers use a grid structure to help them position items on a page, and the same is true for web designers. |
 ---
+
 ### Frameworks
 
 Aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
 
 **multiple style sheets:**
+
 1. @import
 1. link
 

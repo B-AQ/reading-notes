@@ -28,9 +28,7 @@ There are several types of form controls that you can use to collect information
 
 - HTML5 introduces new form elements which make it easier for visitors to fill in forms.
 
-
-
-
+----
 
 # JS book
 
@@ -57,7 +55,7 @@ PROPERTY| DESCRIPTION|
 |pageY|Mouse position from top of viewport|
 |timeStamp|Number of milliseconds from Jan 1st, 1970, to when the event was triggered (this is known as Unix Time). Does not work in Firefox. |
 
----
+-------
 
 |METHOD|DESCRIPTION|
 |---|---|
@@ -121,8 +119,6 @@ CUSTOM EFFECTS
 **ANIMATING CSS PROPERTIES**
 
 The .animate() method allows you to create some of your own effects and animations by changing CSS properties.
-
-
 
 ## Tables & Forms
 
