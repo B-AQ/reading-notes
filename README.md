@@ -50,7 +50,7 @@ Course materials:
 | read 9 |Forms and JS Events|[Link](201/read9.md)|
 | read 10|Debugging|[Link](201/read10.md)|
 | read 11 |Audio, Video, Images|[Link](201/read11.md)|
-| read 12 |||
+| read 12 |Drawing text,canvas,Chart.js|[Link](201/read12.md)|
 | read 13 |||
 | read 14 |||
 | read 15 |||
