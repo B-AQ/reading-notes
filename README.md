@@ -1,4 +1,4 @@
-# reading-notes-102
+# Reading-notes-102
 
 <!-- Intro -->
 
@@ -27,7 +27,7 @@ Github profile: [**Bashar Aqleh**](https://github.com/B-AQ)
 
 <!-- Table 201 -->
 
-## reading-notes-201
+# Reading-notes-201
 
 **Web Development Course 201**
 
@@ -55,3 +55,14 @@ Course materials:
 | read 14a |CSS Transforms, Transitions, and Animations|[Link](201/read14a.md)|
 | read 14b |What Google Learned About Teams|[Link](201/read14b.md)|
 | read 15 |||
+
+---
+
+<!-- Table 301 -->
+
+# Reading-notes-301
+
+| Assaigment | Description |Link|
+| - | - |-|
+| read 1 |Introduction to React and Components|[Link](301/read1.md)|
+| read 2 |State and Props|[Link](301/read2.md)|
