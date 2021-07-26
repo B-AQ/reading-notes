@@ -66,3 +66,4 @@ Course materials:
 | - | - |-|
 | read 1 |Introduction to React and Components|[Link](301/read1.md)|
 | read 2 |State and Props|[Link](301/read2.md)|
+| read 3 |Passing Functions as Props|[Link](301/read3.md)|
