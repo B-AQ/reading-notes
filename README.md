@@ -67,3 +67,4 @@ Course materials:
 | read 2 |State and Props|[Link](301/read2.md)|
 | read 3 |Passing Functions as Props|[Link](301/read3.md)|
 | read 4 |React and Forms|[Link](301/read4.md)|
+| read 5 |Putting it all together|[Link](301/read5.md)|
