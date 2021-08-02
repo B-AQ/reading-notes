@@ -70,3 +70,5 @@ Course materials:
 | read 5 |Putting it all together|[Link](301/read5.md)|
 | read 6 |An Introduction to Node.js on sitepoint.com|[Link](301/read6.md)|
 | read 7 |REST API Keys|[Link](301/read7.md)|
+| read 8 |APIs|[Link](301/read8.md)|
+
