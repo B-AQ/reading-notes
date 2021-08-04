@@ -68,7 +68,8 @@ Course materials:
 | read 3 |Passing Functions as Props|[Link](301/read3.md)|
 | read 4 |React and Forms|[Link](301/read4.md)|
 | read 5 |Putting it all together|[Link](301/read5.md)|
-| read 6 |An Introduction to Node.js on sitepoint.com|[Link](301/read6.md)|
+| read 6 |An Introduction to Node.js|[Link](301/read6.md)|
 | read 7 |REST API Keys|[Link](301/read7.md)|
 | read 8 |APIs|[Link](301/read8.md)|
-| read 8 |FUNCTIONAL PROGRAMMING|[Link](301/read9.md)|
+| read 9 |FUNCTIONAL PROGRAMMING|[Link](301/read9.md)|
+| read 10 |In memory storage|[Link](301/read10.md)|
