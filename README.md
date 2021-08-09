@@ -75,3 +75,4 @@ Course materials:
 | read 10 |In memory storage|[Link](301/read10.md)|
 | read 11 |Authentication|[Link](301/read11.md)|
 | read 12 |Mongo and Mongoose|[Link](301/read12.md)|
+| read 13 |CRUD|[Link](301/read13.md)|
