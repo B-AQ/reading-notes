@@ -12,7 +12,7 @@ In the 1990s, researcher Jane Margolis interviewed hundreds of computer science 
 
 This was a big deal when those kids got to college. As personal computers became more common, computer science professors increasingly assumed that their students had grown up playing with computers at home.
 
-Reference [**That Time When Women Stopped Coding**](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+<!-- Reference [**That Time When Women Stopped Coding**](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding) -->
 
 ---
 
@@ -24,7 +24,7 @@ Reference [**That Time When Women Stopped Coding**](https://www.npr.org/sections
 - Gender
 - Ethnicity
 
-Reference [**That Time When Women Stopped Coding**](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+<!-- Reference [**That Time When Women Stopped Coding**](https://informationisbeautiful.net/visualizations/diversity-in-tech/) -->
 
 ---
 
@@ -42,7 +42,7 @@ Given that diverse teams are smarter and more creative than homogeneous ones, it
 
 Joelle Emerson is co-founder and CEO of Paradigm, a strategy firm that helps tech companies build more diverse and inclusive organizations. Before launching Paradigm, Emerson practiced law as a Skadden Fellow at Equal Rights Advocates, where she represented women in employment discrimination and sexual harassment cases.
 
-Reference [**Why diversity matters to your tech company**](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
+<!-- Reference [**Why diversity matters to your tech company**](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/) -->
 
 ---
 
