@@ -76,3 +76,4 @@ Course materials:
 | read 11 |Authentication|[Link](301/read11.md)|
 | read 12 |Mongo and Mongoose|[Link](301/read12.md)|
 | read 13 |CRUD|[Link](301/read13.md)|
+| read 14 |Diversity & Inclusion in the Tech Industrys|[Link](301/read14.md)|
